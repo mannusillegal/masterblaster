@@ -1,0 +1,4 @@
+- task: CopyFiles@2
+  inputs:
+    Contents: '**'
+    TargetFolder: 
